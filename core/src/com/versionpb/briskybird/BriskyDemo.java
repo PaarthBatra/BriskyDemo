@@ -11,7 +11,7 @@ import States.MenuState;
 
 public class BriskyDemo extends ApplicationAdapter {
 	public static final int WIDTH = 480;
-	public static final int HEIGHT = 600;
+	public static final int HEIGHT = 800;
 	public static final String TITLE = "Brisky Bird Demo";
 
 	Texture img;
